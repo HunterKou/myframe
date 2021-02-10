@@ -1,0 +1,13 @@
+{
+    "name": "hunterkou/myframe",
+    "description": "my php frame",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hunterkou",
+            "email": "akshaitao@gmail.com"
+        }
+    ],
+    "require": {}
+}
